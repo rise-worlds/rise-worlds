@@ -55,11 +55,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png" />][website]
 [<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
-
-<br />
-<br />
-
-<!--
 [<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
 [<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
@@ -68,7 +63,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
--->
+
 
 [website]: https://www.cnblogs.com/flying_bat
 [twitter]: https://twitter.com/rise-worlds
