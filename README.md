@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love play rts game
 
 <!--
 **rise-worlds/rise-worlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
