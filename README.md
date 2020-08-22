@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][website]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][website]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][website]
-[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][website]
+[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][website]
@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png" />][website]
 [<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
-[<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
 [<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
 [<img align="left" alt="macos" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />][website]
+[<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
 
 <br />
 <br />
