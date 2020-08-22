@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][website]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][website]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][website]
+[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -50,12 +53,22 @@ Here are some ideas to get you started:
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][website]
 [<img align="left" alt="blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png" />][website]
 [<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
 
 <br />
 <br />
+
+<!--
+[<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
+[<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
+[<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
+[<img align="left" alt="macos" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />][website]
+
+<br />
+<br />
+
+-->
 
 [website]: https://www.cnblogs.com/flying_bat
 [twitter]: https://twitter.com/rise-worlds
