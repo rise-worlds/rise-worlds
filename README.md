@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />][website]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />][website]
@@ -57,7 +56,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
 [<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
-[<img align="left" alt="macos" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />][website]
 [<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
 
 <br />
