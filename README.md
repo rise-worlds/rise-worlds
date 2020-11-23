@@ -60,7 +60,17 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### Main Project Introduction
 
+- [Algorithm Learn][algorithm]
+- [Job Interview Afterthoughts][JobInterviewAfterthoughts]
+- [Blockchain Learn I][GeneralServer] major language: C++ 14/17
+- [Blockchain Learn II][PotatoBlockChain] major language: rust
+- [Language Learn][RiseWorlds]
+- [Game Framework][game] game framework producers works
+
+<br />
+<br />
 
 [website]: https://www.cnblogs.com/flying_bat
 [twitter]: https://twitter.com/rise-worlds
@@ -68,4 +78,9 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/rise.worlds
 [linkedin]: https://linkedin.com/in/rise-worlds
 
-
+[algorithm]: https://github.com/rise-worlds/algorithm
+[JobInterviewAfterthoughts]: https://github.com/rise-worlds/rise-worlds/tree/master/JobInterviewAfterthoughts
+[GeneralServer]:https://github.com/rise-worlds/GeneralServer
+[PotatoBlockChain]:https://github.com/rise-worlds/PotatoBlockChain
+[RiseWorlds]:https://github.com/rise-worlds/RiseWorlds
+[game]:https://github.com/rise-worlds/game
