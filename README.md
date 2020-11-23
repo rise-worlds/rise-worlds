@@ -76,7 +76,6 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/rise-worlds
 [instagram]: https://www.instagram.com/rise.worlds
 [linkedin]: https://linkedin.com/in/rise-worlds
-
 [algorithm]: https://github.com/rise-worlds/algorithm
 [JobInterviewAfterthoughts]: https://github.com/rise-worlds/rise-worlds/tree/master/JobInterviewAfterthoughts
 [GeneralServer]:https://github.com/rise-worlds/GeneralServer
