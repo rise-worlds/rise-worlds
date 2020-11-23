@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />][website]
 
 <br />
-<br />
 
 ### Main Project Introduction
 
