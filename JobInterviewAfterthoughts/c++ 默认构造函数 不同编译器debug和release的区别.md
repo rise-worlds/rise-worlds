@@ -10,7 +10,11 @@ class Test
 {
 public:
     Test() = default;
+    // Test(const Test& value) = default;
+    // Test& operator=(const Test &value) = default;
+    ~Test() = default;
     int GetA() { return m_a; }
+    void SetA(int value) { m_a = value; }
 private:
     int m_a;
 };
@@ -18,17 +22,27 @@ private:
 int main(int argc, char **args)
 {
     Test test;
+    Test test2 = test;
     std::cout << test.GetA() << std::endl;
+    std::cout << test2.GetA() << std::endl;
+    test.SetA(1000);
+    Test test3 = {};
+    std::cout << test.GetA() << std::endl;
+    std::cout << test3.GetA() << std::endl;
+    Test test4 = {test};
+    std::cout << test.GetA() << std::endl;
+    std::cout << test4.GetA() << std::endl;
     return 0;
 }
 ```
 
 |编译器|debug|release|
 |---|--|--|
+|gcc 4.8 |`2147483647`或者`-2147483648`|0|
 |gcc 8|0|0|
 |gcc 9.3|0|0|
-|gcc 4.8 |`2147483647`或者`-2147483648`|0|
 |vs2019 msvc 142|随机数|0|
+|clang 7|随机数|随机数|
 |clang 10 x86|1|随机数|
 |clang 10 x64|0|随机数|
 
