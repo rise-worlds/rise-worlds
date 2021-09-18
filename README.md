@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - [Language Learn][RiseWorlds]
 - [Game Framework][game] game framework producers works
 
-[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
 
 [website]: https://www.cnblogs.com/flying_bat
 [twitter]: https://twitter.com/rise-worlds
