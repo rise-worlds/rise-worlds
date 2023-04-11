@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 ![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=dracula&langs_count=8)
 <br />
 
+### 📈 My Stats
+[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
+
 ### Main Project Introduction
 
 - [Algorithm Learn][algorithm]
@@ -61,8 +64,6 @@ Here are some ideas to get you started:
 - [Language Learn][RiseWorlds]
 - [Game Framework][game] game framework producers works
 
-### 📈 My Stats
-[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
 
 [website]: https://www.cnblogs.com/flying_bat
 [twitter]: https://twitter.com/rise-worlds
