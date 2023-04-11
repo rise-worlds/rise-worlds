@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
+### 🖥️ Tech stack and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][website]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][website]
@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
 
 <br />
+
+### 💻 Languages I used the most
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=slateorange&langs_count=6)
+
 <br />
 
 ### Main Project Introduction
