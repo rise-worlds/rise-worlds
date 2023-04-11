@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br />
 
 ### 💻 Languages I used the most
-![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=slateorange&langs_count=6)
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=dracula&langs_count=8)
 <br />
 
 ### Main Project Introduction
@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 - [Blockchain Learn II][PotatoBlockChain] major language: rust
 - [Language Learn][RiseWorlds]
 - [Game Framework][game] game framework producers works
-<br />
 
 ### 📈 My Stats
 [![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
