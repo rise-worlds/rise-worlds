@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### 🖥️ Tech stack and Tools:
@@ -47,12 +46,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
 [<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
-
 <br />
 
 ### 💻 Languages I used the most
 ![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=slateorange&langs_count=6)
-
 <br />
 
 ### Main Project Introduction
@@ -63,7 +60,9 @@ Here are some ideas to get you started:
 - [Blockchain Learn II][PotatoBlockChain] major language: rust
 - [Language Learn][RiseWorlds]
 - [Game Framework][game] game framework producers works
+<br />
 
+### 📈 My Stats
 [![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
 
 [website]: https://www.cnblogs.com/flying_bat
