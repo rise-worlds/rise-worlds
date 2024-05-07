@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects 😄
 - ⚡ Fun fact: I love play rts game
 
 <!--
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br />
 
 ### 📈 My Stats
-[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&theme=dracula)](https://github.com/rise-worlds)
+[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&show_icons=true&theme=dracula)](https://github.com/rise-worlds)
 
 ### Main Project Introduction
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/rise-worlds
 [algorithm]: https://github.com/rise-worlds/algorithm
 [JobInterviewAfterthoughts]: https://github.com/rise-worlds/rise-worlds/tree/master/JobInterviewAfterthoughts
-[GeneralServer]:https://github.com/rise-worlds/GeneralServer
-[PotatoBlockChain]:https://github.com/rise-worlds/PotatoBlockChain
-[RiseWorlds]:https://github.com/rise-worlds/RiseWorlds
-[game]:https://github.com/rise-worlds/game
+[GeneralServer]: https://github.com/rise-worlds/GeneralServer
+[PotatoBlockChain]: https://github.com/rise-worlds/PotatoBlockChain
+[RiseWorlds]: https://github.com/rise-worlds/RiseWorlds
+[game]: https://github.com/rise-worlds/game
