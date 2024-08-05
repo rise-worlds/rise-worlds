@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📈 My Stats
-[![Rise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rise-worlds&count_private=true&show_icons=true&theme=dracula)](https://github.com/rise-worlds)
-
 ### 💻 Languages I used the most
 ![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rise-worlds&layout=compact&theme=dracula&langs_count=8)
 <br />
