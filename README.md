@@ -2,11 +2,13 @@
 
 ## 💫 I'm rise, a Husband, Father, and Developer.
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [VS Code Course][vscode]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+- 🤔 I like listening to music and Oriental philosophy
 - 🥅 2024 Goals: Contribute more to Open Source projects 😄
-- ⚡ Fun fact: I love play rts game
+- ⚡ Fun fact: I love play rts game, like Dota2
+- 😄 INTJ: I Need To Journey
 
 <!--
 **rise-worlds/rise-worlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,18 +31,18 @@ Here are some ideas to get you started:
 
 ### 🖥️ Tech stack and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][website]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][website]
-[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][website]
-[<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png" />][website]
-[<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][website]
-[<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][website]
-[<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][website]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />][c]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />][c++]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][git]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />][csharp]
+[<img align="left" alt="Asp.Net" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aspnet/aspnet.png" />][aspnet]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][html5]
+[<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png" />][blockchain]
+[<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />][rust]
+[<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" />][windows]
+[<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />][ubuntu]
 <br />
 
 ### Main Project Introduction
@@ -73,3 +75,15 @@ Here are some ideas to get you started:
 [PotatoBlockChain]: https://github.com/rise-worlds/PotatoBlockChain
 [RiseWorlds]: https://github.com/rise-worlds/RiseWorlds
 [game]: https://github.com/rise-worlds/game
+[c]: https://en.cppreference.com/w/c/language/
+[c++]: https://en.cppreference.com/w/cpp/language/
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/
+[aspnet]: https://www.asp.net/
+[git]: https://git-scm.com/
+[vscode]: https://code.visualstudio.com/
+[typescript]: https://www.typescriptlang.org/
+[rust]: https://www.rust-lang.org/
+[html5]: https://developer.mozilla.org/zh-CN/docs/Web/HTML
+[blockchain]: https://en.wikipedia.org/wiki/Blockchain
+[windows]: https://www.microsoft.com/windows/
+[ubuntu]: https://www.ubuntu.com/
