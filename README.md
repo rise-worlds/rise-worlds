@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - [Job Interview Afterthoughts][JobInterviewAfterthoughts]
 - [Blockchain Learn I][GeneralServer] major language: C++ 14/17
 - [Blockchain Learn II][PotatoBlockChain] major language: rust
-- [Language Learn][RiseWorlds]
+- [Language Learn][LanguageLearn]
 - [Game Framework][game] game framework producers works
 
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 [JobInterviewAfterthoughts]: https://github.com/rise-worlds/rise-worlds/tree/master/JobInterviewAfterthoughts
 [GeneralServer]: https://github.com/rise-worlds/GeneralServer
 [PotatoBlockChain]: https://github.com/rise-worlds/PotatoBlockChain
-[RiseWorlds]: https://github.com/rise-worlds/RiseWorlds
+[LanguageLearn]: https://github.com/rise-worlds/Language-Learn
 [game]: https://github.com/rise-worlds/game
 [c]: https://en.cppreference.com/w/c/language/
 [c++]: https://en.cppreference.com/w/cpp/language/
